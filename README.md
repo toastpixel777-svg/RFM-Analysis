@@ -1,5 +1,4 @@
 # RFM-Analysis
---
 ## Executive Summary
 
 Segmented users of a beauty e-commerce platform into **Gold / Silver / Bronze** membership tiers via weighted RFM scoring, then identified **Silver as the highest-leverage CRM target** 
