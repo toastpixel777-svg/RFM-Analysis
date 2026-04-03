@@ -50,7 +50,7 @@ Segmented users of a beauty e-commerce platform into **Gold / Silver / Bronze** 
 
 ---
 
-### 2 · Data Cleaning  `I_Data_Prep.sql`
+### 2 · Data Cleaning  `I.Data_Prep`
 
 | Step | Action |
 |------|--------|
@@ -61,7 +61,7 @@ Segmented users of a beauty e-commerce platform into **Gold / Silver / Bronze** 
 
 ---
 
-### 3 · RFM Segmentation  `II_RFM___Funnel_Analysis.sql`
+### 3 · RFM Segmentation  `II.RFM Funnel Analysis`
 
 **Weighted RFM formula:** `(R × 2) + (F × 4) + (M × 4)`
 
@@ -86,7 +86,7 @@ F and M are double-weighted relative to R, reflecting that purchase volume and v
 
 ---
 
-### 4 · Market Basket Analysis — Loss Leader & Cherry-Picker  `III_MBA_Analysis_.sql`
+### 4 · Market Basket Analysis — Loss Leader & Cherry-Picker  `III. MBA Analysis`
 
 - **Loss leader definition:** A product in a given week where `weekly_avg_price` is ≥ 30% below its historical average price (`discount_depth ≥ 0.3`)
 - **Basket Lift** = avg items in loss-leader sessions ÷ avg items in normal sessions; values > 1.0 indicate incremental cross-sell
@@ -102,7 +102,7 @@ F and M are double-weighted relative to R, reflecting that purchase volume and v
 
 ---
 
-### 5 · Silver Segment Deep Dive  `IV_Silver_Segment_Analysis.sql`
+### 5 · Silver Segment Deep Dive  `IV. Silver Segment Analysis`
 
 | Analysis | Finding |
 |----------|---------|
