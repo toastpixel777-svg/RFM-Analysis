@@ -145,6 +145,4 @@ Loss leaders are effective and **safe** for Silver. A 1.25× basket lift with on
 
 ## Tools & Stack
 
-`BigQuery (SQL)` · `Google Cloud Platform` · `Python` · `Kaggle Open Data`
-
-`RFM Segmentation` · `Funnel Analysis` · `Market Basket Analysis` · `CRM Strategy`
+`BigQuery (SQL)` · `Google Cloud Platform` · `Python` · `RFM Segmentation` · `Funnel Analysis` · `Market Basket Analysis` · `CRM Strategy`
