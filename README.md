@@ -3,7 +3,7 @@
 
 Segmented users of a beauty e-commerce platform into **Gold / Silver / Bronze** membership tiers via weighted RFM scoring, then identified **Silver as the highest-leverage CRM target** 
 
-— Silver members carry an AOV within 15% of Gold (51.1 vs 59.8) but purchase at nearly half the frequency (AOF 1.5 vs 3.2), meaning frequency is the untapped revenue lever. 
+- Silver members carry an AOV within 15% of Gold (51.1 vs 59.8) but purchase at nearly half the frequency (AOF 1.5 vs 3.2), meaning frequency is the untapped revenue lever. 
 - Analysis then mapped *what* to promote (loss-leader promotions with 1.25× basket lift and only 0.25% cherry-picker rate) and *when* to send CRM messages (conversion peaks 9AM – 2PM weekdays; exploration peaks 5PM – 8PM).
 
 ---
